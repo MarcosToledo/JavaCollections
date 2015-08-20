@@ -1,0 +1,2 @@
+# JavaCollections
+Exemplos de collections
